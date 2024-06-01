@@ -101,7 +101,7 @@
     <label for="geography">Geography:</label><br>
     <input type="text" id="geography" name="geography"><br>
 
-    <label for="remarks">Remarks (Minimum 150 characters):</label><br>
+    <label for="remarks">Remarks (Maximum 150 characters):</label><br>
     <textarea id="remarks" name="remarks" rows="4"></textarea><br>
 
     <br>
